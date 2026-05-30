@@ -17,7 +17,8 @@ The simulation is built and tested using **Wokwi** (an online ESP32 simulator), 
 | Resource | URL |
 |---|---|
 | 🔬 Wokwi Simulation | https://wokwi.com/projects/465235636528953345 |
-| 📊 Blynk Dashboard | https://blynk.cloud/dashboard/1064593/global/devices/287290/organization/1064593/devices/4041008/dashboard |
+| 📊 Blynk Dashboard |<img width="339" height="730" alt="image" src="https://github.com/user-attachments/assets/8fde4734-122c-44d2-9cd9-d6b7be4cfab9" />
+ |
 
 ---
 
@@ -124,16 +125,6 @@ The simulation is built and tested using **Wokwi** (an online ESP32 simulator), 
    - **LED / Notification** → V4 (Alert Status)
 
 ---
-
-## 📁 Source Files
-
-```
-smart-anti-sleep-glasses/
-├── sketch.ino        # Main Arduino source code
-├── diagram.json      # Wokwi circuit diagram
-├── libraries.txt     # Required libraries list
-└── README.md         # This file
-```
 
 ---
 
